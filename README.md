@@ -55,10 +55,4 @@ Then the price. The CN2 GIA-E 2GB costs $49.99 per year, about $4.17 a month. Th
 
 👉 [Order the CN2 GIA-E 2GB plan at $49.99/year](https://bwh81.net/aff.php?aff=77528)
 
-## BandwagonHost plans and prices: the current lineup
 
-The core of the lineup is the CN2 GIA-E line (listed on the order page as CN2 GIA ECOMMERCE), four plans, and the cheapest one is the entry point for most buyers:
-
-| Plan | vCPU · RAM · Storage | Traffic | Price | Order |
-| --- | --- | --- | --- | --- |
-| CN2 GIA-E 2GB | 2 · 2 GB · 40 GB SSD | 1 TB/mo |  |  |
